@@ -1,0 +1,21 @@
+.bg-img1{
+    background-color: #0000;
+    background-size:cover;
+    background-image: url("https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1gcTq1.img?w=768&h=512&m=6&x=486&y=229&s=194&d=194");
+    width: 100vw;
+    height: 70vh;
+}
+.bg-img2{
+    background-color: #0000;
+    background-size:cover;
+    background-image: url("https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1gf6Ye.img?w=768&h=480&m=6&x=414&y=231&s=115&d=115");
+    width: 100vw;
+    height: 70vh;
+}
+.bg-img3{
+    background-color: #0000;
+    background-size:cover;
+    background-image: url("https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1gcNQb.img?w=640&h=360&m=6&x=189&y=137&s=135&d=135");
+    width: 100vw;
+    height: 70vh;
+}
